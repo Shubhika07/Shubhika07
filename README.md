@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👨‍🎓 I'm a Senior Software Engineering Student<br><br>💬 Ask me about Machine Learning, Deep Learning, Natural Language Processing<br><br>🌱 I’m currently learning full stack development from Courseera<br><br>⚡ Fun fact - Why did the computer go to therapy? Because it had too many bytes of emotional baggage! <br>      😄🖥️</p>
+<p align="left"><br>💬 Ask me about Machine Learning, Deep Learning, Natural Language Processing<br><br>🌱 I’m currently pursuinng a course in data science from coding ninjas<br><br>⚡ Fun fact - The first computer bug was an actual bug! In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. Hence, the term “debugging” was born. <br>      😄🖥️</p>
 
 ###
 
