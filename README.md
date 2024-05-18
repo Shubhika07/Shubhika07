@@ -15,16 +15,14 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/akash-sharma9/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhika-kashyap-ojha-6978a428a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="33" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/akash_sharma955" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="51" height="33" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/i_akash_0_0/" target="_blank">
+
+  <a href="https://www.instagram.com/shubhika.pvt07/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="33" alt="instagram logo"  />
   </a>
-  <a href="mailto:@sharmakash9557@gmail.com" target="_blank">
+  <a href="mailto:@Shubhi07628@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="33" alt="gmail logo"  />
   </a>
 </div>
