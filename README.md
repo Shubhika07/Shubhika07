@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Sharma</h1>
+<h1 align="center">Hi 👋, I'm Shubhika Kashyap Ojha</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AkashSharma095.AkashSharma095&left_text=Profile%20Views"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Shubhika07.Shubhika07&left_text=Profile%20Views"  />
 
 ###
 
@@ -104,9 +104,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashSharma095&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="161" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashSharma095&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AkashSharma095&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubhika07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="161" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhika07&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shubhika07&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
